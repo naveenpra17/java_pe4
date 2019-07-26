@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3362934-c222-40f4-86a9-8be2de492a71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/com/stackroute/pe4/MultipleOccurences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/com/stackroute/pe4/MultipleOccurencesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/com/stackroute/pe4/AlphabeticalOrderGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/com/stackroute/pe4/AlphabeticalOrderGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/com/stackroute/pe4/NumberOfOccurenceOfWordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/com/stackroute/pe4/NumberOfOccurenceOfWordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/com/stackroute/pe4/ReplaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/com/stackroute/pe4/ReplaceAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/java/com/stackroute/pe4/AlphabeticalOrderGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/com/stackroute/pe4/AlphabeticalOrderGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/java/com/stackroute/pe4/NumberOfOccurenceOfWordTestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/com/stackroute/pe4/NumberOfOccurenceOfWordTestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/java/com/stackroute/pe4/ReplaceAllTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/com/stackroute/pe4/ReplaceAllTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1OUMttXTNsT0jgEdxZbqNDK0Lbg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Music" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.20144753" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stackroute.pe4" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PatternMatcherRegexTest.givenMethodShouldCheckForPatternMatching">
+    <configuration name="AlphabeticalOrderGeneratorTest.givenMethodShouldTestForTheInputStringWhenItIsNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe4" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe4.AlphabeticalOrderGeneratorTest" />
+      <option name="METHOD_NAME" value="givenMethodShouldTestForTheInputStringWhenItIsNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleOccurencesTest.givenMethodShouldcheckForTheNumberOfOccurencesOfTheGivenWordFromTheEntireInputString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe4" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe4.MultipleOccurencesTest" />
+      <option name="METHOD_NAME" value="givenMethodShouldcheckForTheNumberOfOccurencesOfTheGivenWordFromTheEntireInputString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternMatcherRegexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe4" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe4.PatternMatcherRegexTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternMatcherRegexTest.givenMethodShouldCheckForPatternMatching" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe4" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe4.PatternMatcherRegexTest" />
+      <option name="METHOD_NAME" value="givenMethodShouldCheckForPatternMatching" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternMatcherRegexTest.givenMethodwillCheckForMatchingWordWhichIsNotPresentInTheGivenSentence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe4" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe4.PatternMatcherRegexTest" />
+      <option name="METHOD_NAME" value="givenMethodwillCheckForMatchingWordWhichIsNotPresentInTheGivenSentence" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PatternMatcherRegexTest.givenMethodShouldCheckForPatternMatching" />
+        <item itemvalue="JUnit.MultipleOccurencesTest.givenMethodShouldcheckForTheNumberOfOccurencesOfTheGivenWordFromTheEntireInputString" />
+        <item itemvalue="JUnit.PatternMatcherRegexTest.givenMethodwillCheckForMatchingWordWhichIsNotPresentInTheGivenSentence" />
+        <item itemvalue="JUnit.AlphabeticalOrderGeneratorTest.givenMethodShouldTestForTheInputStringWhenItIsNull" />
+        <item itemvalue="JUnit.PatternMatcherRegexTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3362934-c222-40f4-86a9-8be2de492a71" name="Default Changelist" comment="" />
+      <created>1563854492074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563854492074</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MultipleOccurencesTest_givenMethodShouldcheckForTheNumberOfOccurencesOfTheGivenWordFromTheEntireInputString - 2019.07.23 at 12h 55m 11s.xml">
+      <configuration name="MultipleOccurencesTest.givenMethodShouldcheckForTheNumberOfOccurencesOfTheGivenWordFromTheEntireInputString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PatternMatcherRegexTest_givenMethodShouldCheckForPatternMatching - 2019.07.23 at 13h 00m 38s.xml">
+      <configuration name="PatternMatcherRegexTest.givenMethodShouldCheckForPatternMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PatternMatcherRegexTest_givenMethodShouldCheckForPatternMatching - 2019.07.23 at 13h 00m 54s.xml">
+      <configuration name="PatternMatcherRegexTest.givenMethodShouldCheckForPatternMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PatternMatcherRegexTest_givenMethodShouldCheckForPatternMatching - 2019.07.23 at 13h 03m 05s.xml">
+      <configuration name="PatternMatcherRegexTest.givenMethodShouldCheckForPatternMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PatternMatcherRegexTest_givenMethodShouldCheckForPatternMatching - 2019.07.23 at 13h 05m 03s.xml">
+      <configuration name="PatternMatcherRegexTest.givenMethodShouldCheckForPatternMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PatternMatcherRegexTest_givenMethodShouldCheckForPatternMatching - 2019.07.23 at 13h 05m 50s.xml">
+      <configuration name="PatternMatcherRegexTest.givenMethodShouldCheckForPatternMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PatternMatcherRegexTest_givenMethodShouldCheckForPatternMatching - 2019.07.23 at 13h 08m 56s.xml">
+      <configuration name="PatternMatcherRegexTest.givenMethodShouldCheckForPatternMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PatternMatcherRegexTest_givenMethodShouldCheckForPatternMatching - 2019.07.23 at 13h 10m 12s.xml">
+      <configuration name="PatternMatcherRegexTest.givenMethodShouldCheckForPatternMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PatternMatcherRegexTest_givenMethodShouldCheckForPatternMatching - 2019.07.23 at 13h 10m 24s.xml">
+      <configuration name="PatternMatcherRegexTest.givenMethodShouldCheckForPatternMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PatternMatcherRegexTest_givenMethodShouldCheckForPatternMatching - 2019.07.23 at 13h 10m 59s.xml">
+      <configuration name="PatternMatcherRegexTest.givenMethodShouldCheckForPatternMatching" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/java/com/stackroute/pe4/MultipleOccurencesTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>src</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
